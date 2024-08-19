@@ -30,8 +30,8 @@ Me gustaría desarrollar soluciones innovadoras dentro del sector aeronáutico, 
 ## 📈 Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado:
 
-- [**Proyecto 1**](https://github.com/FSanchezB/Proyecto-Google-Yelp-Henry-): Descripción breve del proyecto 1, destacando las tecnologías utilizadas y el objetivo alcanzado.
-- [**Proyecto 2**](https://github.com/FSanchezB/Analisis-de-data-internet-en-Argentina): Descripción breve del proyecto 2, con énfasis en el impacto del proyecto en el sector aeronáutico.
+- [**Proyecto 1**](https://github.com/FSanchezB/Proyecto-Google-Yelp-Henry-): Se analizan datasets de negocios de estados unidos en google maps y yelp para después conseguir un análisis de sentimiento sobre los mismos, un dashboard y un deployment de un sistema de recomendación.
+- [**Proyecto 2**](https://github.com/FSanchezB/Analisis-de-data-internet-en-Argentina): Análisis de datos en Argentina sobre el uso, alcance y calidad del internet en el país.
 
 ## 📫 Contacto
 - **Correo electrónico**: [fernandosb0320@gmail.com](mailto:tuemail@example.com)
