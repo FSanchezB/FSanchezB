@@ -3,7 +3,7 @@
 Soy egresado en Data Science con una gran pasión por el desarrollo en el campo de la aeronáutica, combinando mis conocimientos en ciencia de datos con mi experiencia como piloto.
 
 ## ✈️ Sobre mí
-- **Carrera 1**: Piloto, con experiencia en el mundo de la aviación.
+- **Carrera 1**: Piloto privado, en proceso de obtención de licencia de comercial.
 - **Carrera 2**: Data Scientist, con conocimientos en roles de ingeniería de datos, visualización y machine learning.
 
 ## 🔧 Tecnologías y Herramientas
