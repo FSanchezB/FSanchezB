@@ -18,6 +18,12 @@ Soy egresado en Data Science con una gran pasión por el desarrollo en el campo 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VADER](https://img.shields.io/badge/VADER-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 🌍 Idiomas
+- **Español**: Nativo
+- **Inglés**: Nativo
+- **Portugués**: Principiante
+
+
 ## 🚀 Objetivos Profesionales
 Me gustaría desarrollar soluciones innovadoras dentro del sector aeronáutico, aplicando técnicas avanzadas de análisis de datos y machine learning para mejorar la eficiencia y la seguridad en la aviación.
 
